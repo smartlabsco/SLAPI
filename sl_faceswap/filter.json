@@ -1,0 +1,16 @@
+[
+    {
+        "consent": true,
+        "skinTone": "흑인",
+        "gender": "남성",
+        "hairstyle": "흑발",
+        "haircolor": "흑발"
+    },
+    {
+        "consent": false,
+        "skinTone": null,
+        "gender": null,
+        "hairstyle": null,
+        "haircolor": null
+    }
+]

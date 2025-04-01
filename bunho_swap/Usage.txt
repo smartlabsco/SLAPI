@@ -1,0 +1,10 @@
+* 실행 환경에 따라 pytorch 종속성 패키지는 별도 설치가 필요할 수 있음
+
+conda env create -f environment.yml
+
+conda activate bunho
+
+python detect_lp.py
+
+dataset/test에 있는 이미지에 대해 번호판 비식별화를 진행하여 result/ 경로에 저장함
+

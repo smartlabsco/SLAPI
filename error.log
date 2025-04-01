@@ -1,0 +1,186 @@
+2021-11-23 10:52:21:V2:ERROR:[Errno 13] Permission denied: '/home/smartlabs/.cache/torch/hub/checkpoints/deeplabv3_resnet101_coco-586e9e4e.pth'
+2021-11-27 08:25:30:V2:ERROR:[Errno 13] Permission denied: '/home/smartlabs/.cache/torch/hub/checkpoints/deeplabv3_resnet101_coco-586e9e4e.pth'
+2021-11-27 08:27:10:V2:ERROR:[Errno 13] Permission denied: '/home/smartlabs/.cache/torch/hub/checkpoints/deeplabv3_resnet101_coco-586e9e4e.pth'
+2021-12-21 06:21:11:V2:ERROR:auth error
+2021-12-21 06:26:59:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-12-21 06:50:57:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-12-21 07:27:46:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-12-21 07:29:03:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-12-21 07:34:58:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-12-21 07:37:10:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-12-21 07:53:08:V2:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-02-07 07:23:23:V2:ERROR:Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 804: forward compatibility was attempted on non supported HW
+2022-05-30 08:39:32:V3:ERROR:Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 804: forward compatibility was attempted on non supported HW
+2022-09-27 03:27:02:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f977239ffd0>
+2022-09-27 03:27:18:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f9771079dc0>
+2022-09-27 03:28:35:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f977108f640>
+2022-09-27 04:40:10:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7ff62728f4c0>
+2022-09-27 04:40:50:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f0d89b46fd0>
+2022-09-27 04:41:23:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7fe4ef877fd0>
+2022-09-27 04:41:35:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7fe4ef877b80>
+2022-09-27 04:43:16:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f92ff282ca0>
+2022-09-27 04:44:08:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f92fdf5e1f0>
+2022-09-27 04:47:17:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f92fdf74850>
+2022-09-27 04:48:47:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 04:49:15:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 04:49:20:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f92fdf74610>
+2022-09-27 04:54:35:V4:ERROR:auth error
+2022-09-27 04:54:54:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 04:57:52:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 04:59:01:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 04:59:20:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 04:59:37:V4:ERROR:auth error
+2022-09-27 04:59:42:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 05:00:31:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 05:00:50:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 05:01:25:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 05:04:54:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f8ba43d3b20>
+2022-09-27 05:06:18:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-27 05:06:30:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f78fe40aa90>
+2022-09-27 05:06:49:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f34d7926d00>
+2022-09-27 05:08:52:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7f3334992d00>
+2022-09-28 01:52:51:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-28 06:04:08:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-09-28 06:04:38:V4:ERROR:module 'sl_video' has no attribute 'main'
+2022-09-28 06:06:07:V4:ERROR:'module' object is not callable
+2022-09-28 06:06:36:V4:ERROR:'module' object is not callable
+2022-09-28 06:30:06:V4:ERROR:'module' object is not callable
+2022-09-28 06:32:42:V4:ERROR:module 'sl_video' has no attribute 'main'
+2022-09-28 06:33:49:V4:ERROR:name 'output_vid' is not defined
+2022-09-28 06:34:49:V4:ERROR:'FaceswapParser' object has no attribute 'parsing'
+2022-09-28 06:35:48:V4:ERROR:'FaceswapParser' object has no attribute 'parsing'
+2022-09-28 06:37:42:V4:ERROR:The ``path`` (./checkpoints/arcface.pdparams) to load model not exists.
+2022-09-28 06:43:11:V4:ERROR:name 'sl_video' is not defined
+2022-09-28 06:43:39:V4:ERROR:name 'sl_video' is not defined
+2022-09-28 06:44:03:V4:ERROR:The ``path`` (./checkpoints/arcface.pdparams) to load model not exists.
+2022-09-28 06:44:48:V4:ERROR:Cannot choose from an empty sequence
+2022-09-28 06:45:49:V4:ERROR:Cannot choose from an empty sequence
+2022-09-28 06:47:40:V4:ERROR:local variable 'frame' referenced before assignment
+2022-09-28 06:50:04:V4:ERROR:name 'output_vid' is not defined
+2022-09-28 06:50:47:V4:ERROR:name 'output_vid' is not defined
+2022-09-28 06:52:38:V4:ERROR:'NoneType' object has no attribute 'astype'
+2022-09-28 06:53:29:V4:ERROR:name 'output_vid' is not defined
+2022-09-29 04:26:07:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-09-29 04:27:43:V4:ERROR:name 'output_vid' is not defined
+2022-09-29 04:28:25:V4:ERROR:name 'output_vid' is not defined
+2022-09-30 03:03:27:V4:ERROR:name 'output_vid' is not defined
+2022-09-30 03:43:04:V4:ERROR:name 'output_vid' is not defined
+2022-09-30 03:57:29:V4:ERROR:read
+2022-09-30 03:58:53:V4:ERROR:read
+2022-09-30 03:59:45:V4:ERROR:'NoneType' object has no attribute 'astype'
+2022-09-30 04:00:43:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-09-30 04:01:57:V4:ERROR:read
+2022-09-30 04:03:11:V4:ERROR:read
+2022-09-30 04:04:32:V4:ERROR:read
+2022-09-30 04:05:45:V4:ERROR:'NoneType' object has no attribute 'astype'
+2022-09-30 04:06:31:V4:ERROR:Object of type bytes is not JSON serializable
+2022-10-02 11:36:24:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-10-02 11:36:37:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-10-02 11:36:44:V4:ERROR:cannot identify image file <tempfile.SpooledTemporaryFile object at 0x7fdc0c466a00>
+2022-10-02 11:37:50:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-10-05 01:32:42:V4:ERROR:'MP4'
+2022-10-05 01:39:32:V4:ERROR:'MP4'
+2022-10-05 01:41:15:V4:ERROR:'MP4'
+2022-10-05 01:42:47:V4:ERROR:'MP4'
+2022-10-05 01:45:09:V4:ERROR:'MP4'
+2022-10-05 01:45:20:V4:ERROR:'MP4'
+2022-10-05 01:46:59:V4:ERROR:'MP4'
+2022-10-05 01:48:27:V4:ERROR:'MP4'
+2022-10-05 01:48:51:V4:ERROR:'MP4'
+2022-10-05 06:50:09:V4:ERROR:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-10-05 06:54:36:V4:ERROR:name 'output_img' is not defined
+2022-10-05 06:55:16:V4:ERROR:name 'output_str' is not defined
+2022-10-06 05:42:53:V4:ERROR:auth error
+2022-10-06 05:43:00:V4:ERROR:auth error
+2022-10-06 05:43:00:V4:ERROR:auth error
+2022-10-06 05:43:31:V4:ERROR:auth error
+2022-10-06 05:44:13:V4:ERROR:auth error
+2022-10-06 05:44:13:V4:ERROR:auth error
+2022-10-06 05:44:15:V4:ERROR:auth error
+2022-10-06 05:44:16:V4:ERROR:auth error
+2022-10-06 05:44:18:V4:ERROR:auth error
+2022-10-06 05:44:19:V4:ERROR:auth error
+2022-10-06 05:44:22:V4:ERROR:auth error
+2022-10-06 05:44:35:V4:ERROR:auth error
+2022-10-06 05:48:17:V4:ERROR:auth error
+2022-10-06 05:49:02:V4:ERROR:auth error
+2022-10-06 05:49:16:V4:ERROR:auth error
+2022-10-06 05:49:30:V4:ERROR:auth error
+2022-10-06 05:51:14:V4:ERROR:auth error
+2022-10-06 05:51:16:V4:ERROR:auth error
+2022-10-06 05:51:27:V4:ERROR:auth error
+2022-10-06 05:52:59:V4:ERROR:auth error
+2022-10-06 05:53:04:V4:ERROR:auth error
+2022-10-06 05:53:07:V4:ERROR:auth error
+2022-10-06 06:04:17:V4:ERROR:[Errno 2] No such file or directory: 'model/79999_iter.pth'
+2022-10-07 08:08:15:V4:ERROR:OpenCV(4.6.0) /io/opencv/modules/imgproc/src/resize.cpp:4052: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+2022-10-07 08:08:48:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 08:09:24:V4:ERROR:OpenCV(4.6.0) /io/opencv/modules/imgproc/src/resize.cpp:4052: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+2022-10-07 08:09:42:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 08:11:49:V4:ERROR:OpenCV(4.6.0) /io/opencv/modules/imgproc/src/resize.cpp:4052: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+2022-10-07 08:12:06:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 09:59:31:V4:ERROR:auth error
+2022-10-07 11:07:03:V4:ERROR:'NoneType' object has no attribute 'astype'
+2022-10-07 11:07:21:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:07:41:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:08:24:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:10:32:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:10:45:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:11:19:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:12:12:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:12:20:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:12:33:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:12:49:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:12:59:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:13:01:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:13:03:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:13:23:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:13:49:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:14:00:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:18:02:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 11:35:01:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-07 15:54:55:V4:ERROR:[Errno 2] No such file or directory: 'model/79999_iter.pth'
+2022-10-07 15:55:43:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-08 02:28:46:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-08 02:29:03:V4:ERROR:[Errno 2] No such file or directory: 'model/79999_iter.pth'
+2022-10-08 02:29:27:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-10-08 02:29:36:V4:ERROR:[Errno 2] No such file or directory: 'model/79999_iter.pth'
+2022-11-05 12:11:31:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap'
+2022-11-05 12:11:33:V4:ERROR:[Errno 2] No such file or directory: 'data/source/image_1.jpg'
+2022-11-05 16:01:56:V4:ERROR:parsing() missing 1 required positional argument: 'image'
+2022-11-05 16:02:12:V4:ERROR:parsing() missing 1 required positional argument: 'image'
+2022-11-05 17:09:59:V4:ERROR:imgswap() missing 1 required positional argument: 'self'
+2022-11-05 17:10:19:V4:ERROR:imgswap() missing 1 required positional argument: 'self'
+2022-11-05 17:11:06:V4:ERROR:imgswap() missing 1 required positional argument: 'self'
+2022-11-05 17:14:51:V4:ERROR:'NoneType' object has no attribute 'shape'
+2022-11-05 17:15:12:V4:ERROR:'NoneType' object has no attribute 'shape'
+2022-11-05 17:15:22:V4:ERROR:'NoneType' object has no attribute 'shape'
+2022-11-05 17:17:04:V4:ERROR:'NoneType' object has no attribute 'shape'
+2022-11-05 17:18:25:V4:ERROR:'NoneType' object has no attribute 'shape'
+2022-11-05 18:20:32:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-05 18:21:13:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-05 18:41:55:V4:ERROR:[Errno 2] No such file or directory: 'sl_faceswap/UPLOAD_IMG.png'
+2022-11-05 18:42:05:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-05 19:12:03:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.mp4'
+2022-11-05 19:15:21:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.mp4'
+2022-11-05 19:16:42:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.mp4'
+2022-11-08 12:45:54:V4:ERROR:[Errno 2] No such file or directory: 'sl_faceswap/UPLOAD_IMG.png'
+2022-11-08 12:45:56:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:01:34:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:03:19:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:03:37:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:04:34:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:05:24:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:06:06:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 13:06:55:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 23:53:51:V4:ERROR:[Errno 2] No such file or directory: 'sl_faceswap/UPLOAD_IMG.png'
+2022-11-08 23:53:55:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 23:54:10:V4:ERROR:[Errno 2] No such file or directory: 'sl_faceswap/UPLOAD_IMG.png'
+2022-11-08 23:54:15:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2022-11-08 23:54:26:V4:ERROR:[Errno 2] No such file or directory: 'sl_faceswap/UPLOAD_IMG.png'
+2022-11-08 23:54:30:V4:ERROR:[Errno 2] No such file or directory: './sl_faceswap/PARSE_OUTPUT.png'
+2023-04-22 14:40:53:V4:ERROR:auth error
+2024-11-11 06:43:06:V4:ERROR:auth error
