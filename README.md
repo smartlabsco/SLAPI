@@ -1,13 +1,9 @@
-# SL_ParsingAPI
-Face and License Plate Parsing API using Image Segmentation
 
-# conda env
 
-conda create -n sl-parsing-api python = 3.7
+위 drive 주소에서
+checkpoints 폴더를 메인 디렉토리, sl_faceswap 디렉토리에 붙여넣고,
+weights 폴더를 bunho_swap 디렉토리에 붙여넣음
 
-# requirements
+uvicorn V7:app --reload --host="ip" --port "port --workers "num"
 
-conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c nvidia  
-pip install flask  
-pip install matplotlib  
-pip install pillow
+위와 같은 요령으로 실행
