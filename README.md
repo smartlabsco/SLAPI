@@ -1,7 +1,8 @@
-
+https://drive.google.com/drive/folders/1sy0AqgUogOmgkaZDGXex0ONT1zoZgQ5b?usp=sharing
 
 위 drive 주소에서
 checkpoints 폴더를 메인 디렉토리, sl_faceswap 디렉토리에 붙여넣고,
+
 weights 폴더를 bunho_swap 디렉토리에 붙여넣음
 
 uvicorn V7:app --reload --host="ip" --port "port --workers "num"
